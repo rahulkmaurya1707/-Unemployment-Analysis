@@ -104,7 +104,7 @@ All figures are empirically calculated from the actual dataset:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/unemployment-analysis.git
+git clone https://github.com/rahulkmaurya1707/-Unemployment-Analysis.git
 cd unemployment-analysis
 ```
 
